@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/kener-2?utm_medium=integration&utm_source=button&utm_campaign=kener)
+
 # Kener on Railway
 
 This repo deploys [Kener](https://github.com/rajnandan1/kener), the open-source status page and uptime monitor, on [Railway](https://railway.com).
